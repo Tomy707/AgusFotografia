@@ -27,7 +27,7 @@ div header {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  box-shadow: 10px 15px 20px black;
+  border: rgb(54, 54, 54) solid 3px;
   background-color: #BBBBAA;
 }
 div header div {
@@ -35,7 +35,7 @@ div header div {
 }
 
 div header div img{
-  height: 90px;
+  height: 80px;
 }
 
 .container header{
